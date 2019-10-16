@@ -15,6 +15,6 @@
 
 
 
-## General Read
+## General readings
 
   - Desktop apps vs web apps: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/
